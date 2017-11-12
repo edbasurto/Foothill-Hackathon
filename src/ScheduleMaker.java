@@ -16,6 +16,8 @@ import org.apache.poi.ss.util.CellReference;
 import org.apache.poi.xssf.streaming.SXSSFWorkbook;
 
 public class ScheduleMaker {
+	
+	//This is our project
    
    public static Scanner scanner;
    private ArrayList<String> courseNames = new ArrayList<String>();
